@@ -1,13 +1,26 @@
 package org.projeto.mvc_java.Model;
 
 public class SidebarItem {
-
+    private Long id;
     private String name;
     private String link;
+    private String user;
 
-    public SidebarItem(String name, String link) {
+    // Construtor
+    public SidebarItem(Long id, String name, String link, String user) {
+        this.id = id;
         this.name = name;
         this.link = link;
+        this.user = user;
+    }
+
+    // Getters e Setters
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
     }
 
     public String getName() {
@@ -26,5 +39,11 @@ public class SidebarItem {
         this.link = link;
     }
 
+    public String getUser() {
+        return user;
+    }
 
+    public void setUser(String user) {
+        this.user = user;
+    }
 }

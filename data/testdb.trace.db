@@ -1,0 +1,24 @@
+2024-10-15 18:38:47.707336-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "chats" not found (candidates are: "CHATS"); SQL statement:
+SELECT "chats"."ID" AS "ID", "chats"."NOME" AS "NOME" FROM "chats" [42103-224]
+2024-10-15 18:39:53.761731-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "chats" not found (candidates are: "CHATS"); SQL statement:
+SELECT "chats"."ID" AS "ID", "chats"."NOME" AS "NOME" FROM "chats" [42103-224]
+2024-10-15 18:39:55.496676-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "chats" not found (candidates are: "CHATS"); SQL statement:
+SELECT "chats"."ID" AS "ID", "chats"."NOME" AS "NOME" FROM "chats" [42103-224]
+2024-10-15 18:39:56.651119-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "chats" not found (candidates are: "CHATS"); SQL statement:
+SELECT "chats"."ID" AS "ID", "chats"."NOME" AS "NOME" FROM "chats" [42103-224]
+2024-10-15 18:39:57.659711-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "chats" not found (candidates are: "CHATS"); SQL statement:
+SELECT "chats"."ID" AS "ID", "chats"."NOME" AS "NOME" FROM "chats" [42103-224]
+2024-10-15 18:40:02.802567-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "chats" not found (candidates are: "CHATS"); SQL statement:
+SELECT "chats"."ID" AS "ID", "chats"."NOME" AS "NOME" FROM "chats" [42103-224]
+2024-10-15 18:40:02.967912-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "chats" not found (candidates are: "CHATS"); SQL statement:
+SELECT "chats"."ID" AS "ID", "chats"."NOME" AS "NOME" FROM "chats" [42103-224]
+2024-10-15 18:41:34.278352-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "chats" not found (candidates are: "CHATS"); SQL statement:
+INSERT INTO "chats" ("NOME") VALUES (?) [42103-224]
