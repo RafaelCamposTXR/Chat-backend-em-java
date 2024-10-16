@@ -34,7 +34,7 @@ Este projeto é uma prova de conceito em andamento, executado localmente, utiliz
 https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.3.4&packaging=jar&jvmVersion=17&groupId=com.example&artifactId=demo&name=demo&description=Demo%20project%20for%20Spring%20Boot&packageName=com.example.demo&dependencies=web,devtools,h2,thymeleaf,data-jdbc
 
 ### Configuração front-end:
-Clone o Repositório front-end e deixe-o rodando localmente
+Clone o Repositório front-end (https://github.com/RafaelCamposTXR/Chat-front-end-em-Vue/) e deixe-o rodando localmente
 
 ### Configuração Back-end:
 
